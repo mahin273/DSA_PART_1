@@ -1,0 +1,1 @@
+{"name":"Local: Insertion_sorting","url":"d:\\Programming\\DSA_PART_1\\Insertion_sorting.cpp","tests":[{"id":1695845941674,"input":"5,4,3,2,1","output":"1,2,3,4,5"},{"id":1695845958766,"input":"5,4,3,2,1","output":"1,2,3,4,5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\DSA_PART_1\\Insertion_sorting.cpp","group":"local","local":true}

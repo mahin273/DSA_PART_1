@@ -1,0 +1,1 @@
+{"name":"Local: Teamp","url":"d:\\Programming\\DSA_PART_1\\Practice\\Teamp.cpp","tests":[{"id":1697401548336,"input":"3\n1 1 0\n1 1 1\n1 0 0","output":"2"},{"id":1697401596850,"input":"2\n1 0 0\n0 1 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\DSA_PART_1\\Practice\\Teamp.cpp","group":"local","local":true}
